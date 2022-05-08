@@ -33,9 +33,9 @@ import pgzero
 from pgzero.builtins import Actor
 import os,sys
 from random import randint
-import pandas as pd
-from openpyxl import Workbook
-import xlsxwriter
+import pandas as pd *
+from openpyxl import Workbook *
+import xlsxwriter *
 
 *Not all of these modules are utlizied as there are some parts of the game I was experimenting with that did not work as 
 intended so import them anyways and if they don't get used it's not the end of the world.
